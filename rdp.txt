@@ -1,0 +1,1 @@
+El Protocolo de escritorio remoto (RDP) posibilita que los empleados se conecten a su ordenador de escritorio cuando trabajan a distancia.
